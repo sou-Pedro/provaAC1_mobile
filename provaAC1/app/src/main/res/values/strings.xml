@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">provaAC1</string>
+        <string-array name="spinner">
+            <item>Família</item>
+            <item>Amigos</item>
+            <item>Trabalho</item>
+            <item>Outros</item>
+        </string-array>
+
+</resources>
